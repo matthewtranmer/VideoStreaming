@@ -1,2 +1,2 @@
 # VideoStreaming
-The interface webserver for webclients 
+The interface webapp for webclients 
